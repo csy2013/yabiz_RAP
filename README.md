@@ -23,8 +23,4 @@ RAP通过GUI工具帮助WEB工程师更高效的管理接口文档，同时通�
  
 * 中文：[Video Tutorial 视频教程](http://thx.github.io/RAP/study.html)
 
-### 分支说明
-* master: 最新代码会在master，所以master是最新的，但是不保证稳定。且有一些公司自用的东西，所以提交记录可以参考，但不能直接使用master分支。
-* release：是相对稳定的最新代码分支，也是RAP对外打包的分支
-* 其它分支：根据开发需要，大的版本会以版本号为分支名，打一些临时分支。
  
